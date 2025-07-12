@@ -7,7 +7,7 @@ A lightweight web app built with Streamlit, using an SVM classifier and TF-IDF v
 
 ## Live 🌐
 
-Hosted [here](https://fakenewsdetector.streamlit.app)
+Hosted [here](https://fakenewsdetector-app.streamlit.app)
 ## 🚀 Features
 
 * **Real‑Time Prediction** - Classify news articles instantly with pre-trained ML models.
@@ -58,7 +58,7 @@ streamlit run app.py
 
 ## 🧪 Usage Guide
 
-1. Open the web app at [FakeNewsDetector](https://fakenewsdetector.streamlit.app).
+1. Open the web app at [FakeNewsDetector](https://fakenewsdetector-app.streamlit.app).
 2. Paste or type in the news article content.
 3. Click the **Check** button.
 4. The app will display whether the news is **REAL** or **FAKE**.
