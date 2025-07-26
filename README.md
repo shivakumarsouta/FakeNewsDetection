@@ -37,7 +37,7 @@ Streamlit UI (Display Result)
 
 ```bash
 # 1. Clone the repo
-git clone https://github.com/shivkumars005/FakeNewsDetection.git
+git clone https://github.com/shivakumarsouta/FakeNewsDetection.git
 cd FakeNewsDetection
 
 # 2. (Optional) Setup virtual environment
@@ -84,5 +84,5 @@ streamlit run app.py
 
 ## 🙋‍♂️ Contact
 
-[GitHub](https://github.com/shivkumars005) | [LinkedIn](https://linkedin.com/in/shivakumarsouta) | [Mail](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
+[GitHub](https://github.com/shivakumarsouta) | [LinkedIn](https://linkedin.com/in/shivakumarsouta) | [Mail](shivakumarsouta18@gmail.com) | [Portfolio](https://shivakumarsouta-portfolio.vercel.app)
 ---
